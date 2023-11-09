@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "736745082678",
+    "firebase_url": "https://wrcp-968c2-default-rtdb.firebaseio.com",
+    "project_id": "wrcp-968c2",
+    "storage_bucket": "wrcp-968c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736745082678:android:5a4ab4c8077cd2f4cc6d97",
+        "android_client_info": {
+          "package_name": "com.nasa.wrcp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvcjtrqC7xXEZC4MEMM_q-ZTIcCCG74mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
